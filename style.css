@@ -1,0 +1,29 @@
+
+body {
+    background-color: #17252A;
+
+    font-weight: lighter;
+    padding: 50px;}
+
+    #registrationForm {
+        border: 1px dashed rgb(0, 0, 0);
+        border-radius: 0px 0px 10px 10px;
+        padding: 53px;
+        background-color: #FEFFFF;
+
+    }
+
+    .heading {
+        background: #3AAFA9;
+        color: white;
+        text-align: center;
+        margin-bottom: 0px;
+        font-family: fantasy;
+        border-radius: 10px 10px 0px 0px ;
+        border-color: aqua;
+    }
+
+
+    h3{
+        font-style: oblique;
+    }
